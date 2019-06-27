@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 26 16:24:03 MSK 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Ekaterina\\Downloads\\mygps-master\\p1381_Location\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

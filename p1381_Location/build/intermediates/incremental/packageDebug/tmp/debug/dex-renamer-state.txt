@@ -1,0 +1,4 @@
+#Thu Jun 27 11:53:22 MSK 2019
+base.0=C\:\\Users\\Ekaterina\\Downloads\\mygps-master\\p1381_Location\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
